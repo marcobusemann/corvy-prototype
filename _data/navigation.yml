@@ -3,7 +3,8 @@
   new_window: false
   highlight: false
 - name: Blog
-  link: /blog/
+#  link: /blog/
+  link: https://www.instagram.com/__corvy__/
   new_window: false
   highlight: false
 - name: About
@@ -15,10 +16,11 @@
   new_window: false
   highlight: false
 - name: Login
-  link: /
+#  link: /
+  link: https://www.coursika.de/de-de/Provider/Calendar?TrialOnly=False&domain=corvy2&w=/classes
   new_window: true
   highlight: false
-- name: Sign Up
-  link: /
-  new_window: true
-  highlight: true
+#- name: Sign Up
+#  link: /
+#  new_window: true
+#  highlight: true
