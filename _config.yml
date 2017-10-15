@@ -16,9 +16,10 @@ author:
   email: corvy@gmx.net
   twitter: # twitter username without the @ symbol
 social:
-  name: Hydra Template
+  name: Jan Baumhof
   links:
-    - https://github.com/CloudCannon/hydra-jekyll-template
+    - https://www.facebook.com/Corvy2014/
+    - https://www.instagram.com/__corvy__/
 
 # -----
 # Build
@@ -34,16 +35,6 @@ paginate_path: "/blog/:num/"
 permalink: pretty
 
 defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      _options:
-        content:
-          width: 1500
-          height: 2500
   -
     scope:
       path: ""
@@ -100,14 +91,14 @@ exclude:
 
 social_icons:
   - Facebook
-#  - Google Plus
+  - Google Plus
   - Instagram
-#  - LinkedIn
-#  - Pinterest
-#  - Tumblr
-#  - Twitter
-#  - YouTube
-#  - RSS
+  - LinkedIn
+  - Pinterest
+  - Tumblr
+  - Twitter
+  - YouTube
+  - RSS
 
 _comments:
   map: Update the map location and display settings.
