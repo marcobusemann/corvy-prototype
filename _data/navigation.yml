@@ -1,26 +1,37 @@
-- name: Pricing
+- name: FAQ
+  link: /corvy/
+  highlight: true
+- name: Preise
   link: /pricing/
   new_window: false
   highlight: false
-- name: Blog
+#- name: Blog
 #  link: /blog/
+#  link: https://www.instagram.com/__corvy__/
+#  new_window: false
+#  highlight: false
+#- name: About
+#  link: /about/
+#  new_window: false
+#  highlight: false
+#- name: Contact
+#  link: /contact/
+#  new_window: false
+#  highlight: false
+#- name: Sign Up
+#  link: /
+#  new_window: true
+#  highlight: true
+- name: Facebook
+  link: https://www.facebook.com/Corvy2014/
+  new_window: true
+  social_icon: Facebook
+- name: Instagram
   link: https://www.instagram.com/__corvy__/
-  new_window: false
-  highlight: false
-- name: About
-  link: /about/
-  new_window: false
-  highlight: false
-- name: Contact
-  link: /contact/
-  new_window: false
-  highlight: false
+  social_icon: Instagram
+  new_window: true
 - name: Login
 #  link: /
   link: https://www.coursika.de/de-de/Provider/Calendar?TrialOnly=False&domain=corvy2&w=/classes
   new_window: true
   highlight: false
-#- name: Sign Up
-#  link: /
-#  new_window: true
-#  highlight: true

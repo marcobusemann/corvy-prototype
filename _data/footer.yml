@@ -1,18 +1,22 @@
 - links:
-  - name: Pricing
+  - name: FAQ
+    link: /corvy/
+  - name: Preise
     link: /pricing/
-  - name: Blog
+#  - name: Blog
 #    link: /blog/
-    link: https://www.instagram.com/__corvy__/
-  - name: About
-    link: /about/
-  - name: Contact
-    link: /contact/
+#    link: https://www.instagram.com/__corvy__/
+#  - name: About
+#    link: /about/
+#  - name: Contact
+#    link: /contact/
 - links:
   - name: Login
 #    link: /
     link: https://www.coursika.de/de-de/Provider/Calendar?TrialOnly=False&domain=corvy2&w=/classes
     new_window: true
+  - name: Impressum
+    link: /impressum/
 #  - name: Sign Up
 #    link: /
 #    new_window: true
