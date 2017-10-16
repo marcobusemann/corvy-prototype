@@ -2,8 +2,8 @@
 # Site
 
 title: Corvy - Ein individuell auf dich zugeschnittenes Fitnessprogramm
-url: "https://marcobusemann.github.io/corvy-prototype/"
-baseurl:
+url: "https://marcobusemann.github.io/"
+baseurl: corvy-prototype/
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
