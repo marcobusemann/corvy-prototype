@@ -1,0 +1,49 @@
+---
+pages:
+- _staff_members/oliver.md
+- _staff_members/jan.md
+- _staff_members/benjamin.md
+hide_body: false
+fields:
+- name: name
+  label: Name
+  type: text
+  hidden: false
+  default: ''
+- name: image_path
+  label: Image path
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: page
+- name: _options
+  label: " options"
+  type: field_group
+  fields:
+  - name: image_path
+    label: Image path
+    type: field_group
+    fields:
+    - name: width
+      label: Width
+      type: text
+      hidden: false
+      default: ''
+    - name: height
+      label: Height
+      type: text
+      hidden: false
+      default: ''
+    hidden: false
+    default: ''
+  hidden: false
+  default: 
